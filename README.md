@@ -25,6 +25,10 @@ Calendar date dimension and DAX measures, with every figure reconciled back to t
 
 ![Superstore dashboard](powerbi/screenshots/dashboard-overview.png)
 
+*Interactive demo — filtering by region, category, and year:*
+
+![Interactive demo of the Superstore dashboard](powerbi/screenshots/dashboard-overview.gif)
+
 **What it shows**
 
 - KPI row — total sales, profit, margin, orders, and average discount at a glance.
